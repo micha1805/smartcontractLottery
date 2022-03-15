@@ -1,15 +1,8 @@
 # Smartcontract Lottery
 
 1. User can enter lottery with ETH based on USD fee (let say the entry fee is $50, this will be payed in ETH base on its current price)
-2. An admin will choose when the lottery os over
+2. An admin will choose when the lottery is over
 3. The lottery will select a random winner
-
-How do we want to test this?
-
-1. `mainnet-fork`
-2. `development` with mocks
-3. `testnet`
-
 
 ## .env file content
 
